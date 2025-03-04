@@ -1,7 +1,7 @@
 # AutoML App
 
 一個自動化機器學習數據分析網頁應用。
-<img src=img/demo.png" alt="drawing" width="400"/>
+<img src="img/demo.png" alt="drawing" width="400"/>
 
 ## 功能特點
 

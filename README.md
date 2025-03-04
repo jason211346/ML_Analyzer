@@ -1,6 +1,4 @@
 # AutoML App
-![image](https://github.com/user-attachments/assets/1eba31e5-392f-4ed7-a8eb-77841d7596e4)
-
 
 一個自動化機器學習數據分析網頁應用。
 <img src=img/demo.png" alt="drawing" width="400"/>

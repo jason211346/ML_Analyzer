@@ -212,7 +212,7 @@ function App() {
       <div className="flex-1 flex flex-col overflow-hidden">
         <header className="bg-white shadow-sm p-4">
           <div className="flex justify-between items-center">
-            <h1 className="text-2xl font-bold text-gray-800">Excel 資料分析系統</h1>
+            <h1 className="text-2xl font-bold text-gray-800">AutoML</h1>
             {selectedUser && (
               <div className="text-sm text-gray-600">
                 目前使用者: <span className="font-semibold">{selectedUser.name}</span>
